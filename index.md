@@ -6,3 +6,7 @@
 my_var = 10
 print(my_var)
 ```
+
+- [X] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
